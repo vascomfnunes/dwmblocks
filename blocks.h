@@ -4,9 +4,9 @@ static const Block blocks[] = {
 	{"", "~/bin/dwmblocks/mpd.sh",						3,		0},
 	{"", "~/bin/dwmblocks/mem.sh",	30,		0},
 	// {"", "~/bin/dwmblocks/sensors.sh",				5,		0},
-	{"", "~/bin/dwmblocks/battery.sh",				60,		0},
 	{"", "~/bin/dwmblocks/crypto.sh",				300,		0},
 	{"", "~/bin/dwmblocks/weather.sh",				600,		0},
+	{"", "~/bin/dwmblocks/battery.sh",				60,		0},
 	{"", "~/bin/dwmblocks/clock.sh",						1,		0},
 };
 
